@@ -7,9 +7,13 @@
 ### Utilidades
 
 🔹 Características principales:
+
 ✅ Escaneo de puertos abiertos.
+
 ✅ Detección de servicios y versiones.
+
 ✅ Identificación del sistema operativo (opcional).
+
 ✅ Exportación de resultados a un archivo .txt.
 
 🛡️ Advertencia Legal
@@ -20,7 +24,7 @@ El uso de este script en sistemas sin autorización puede ser ilegal y violar po
 
 ```python
 '''
-PORT SCANNER SCRIPT - Documentación:
+Documentación:
 
 Este script utiliza Nmap para realizar un escaneo de puertos en un target y exportar los resultados tanto a la consola como a un archivo de texto.
 El objetivo es escanear puertos dentro de un rango específico, obtener información sobre los servicios, versiones disponibles y detectar el sistema operativo.
@@ -92,8 +96,8 @@ pip install -r requirements.txt
 
 3️⃣ Modificaciones previas:
 
-    Edita la variable target para definir el host a escanear, por defecto está localhost (127.0.0.1), es tu propio equipo y es seguro y legal de analizar.
-    Ajusta la variable rango_ports según el rango deseado de puertos que quieras analizar:
+🔹Edita la variable target para definir el host a escanear, por defecto está localhost (127.0.0.1), es tu propio equipo y es seguro y legal de analizar.
+🔹Ajusta la variable rango_ports según el rango deseado de puertos que quieras analizar:
 
 🔹 Ejecuta el script
 ```powershell
