@@ -91,6 +91,7 @@ pip install python-nmap
 git clone https://github.com/ChristianORomero/script_python_port_scanner.git
 ```
 
+🔹 Dependencias:
 ```powershell
 pip install -r requirements.txt
 ```
