@@ -1,4 +1,4 @@
-# Python Script/ Escáner de puertos/servicios/versión/OS exportable a .txt
+# Python Script - Escáner de puertos/servicios/versión/OS exportable a .txt
 
 ## Descripción
 
