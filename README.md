@@ -18,6 +18,7 @@
 
 🛡️ Advertencia Legal
 El uso de este script en sistemas sin autorización puede ser ilegal y violar políticas de seguridad.
+
 ⚠ Nota: Este script debe usarse únicamente en redes y dispositivos autorizados, para probar el script utiliza tú **localhost** como target.
 
 ### Código
@@ -73,7 +74,9 @@ print("\n ¡Escaneo completado!, los resultados se han guardado correctamente en
 ### Requisitos previos e instalación
 
 🔹 Python 3.x instalado.
+
 🔹 Nmap instalado en tu sistema.
+
 🔹 Asegúrate de tener instalado **Git** en tu sistema para la clonación.
 ```sh
 git --version
@@ -97,6 +100,7 @@ pip install -r requirements.txt
 3️⃣ Modificaciones previas:
 
 🔹Edita la variable target para definir el host a escanear, por defecto está localhost (127.0.0.1), es tu propio equipo y es seguro y legal de analizar.
+
 🔹Ajusta la variable rango_ports según el rango deseado de puertos que quieras analizar:
 
 🔹 Ejecuta el script
