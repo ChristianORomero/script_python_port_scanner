@@ -1,11 +1,8 @@
-# script_python_port_scanner
-Script de python que utiliza el modulo python-nmap, para realizar análisis de vulnerabilidades de red a través del escaneo de puertos
-
 # Python Script Port Scanner con Nmap module
 
 ## Descripción
 
-📌 Un script en Python que utiliza Nmap para escanear puertos, identificar servicios y detectar el sistema operativo en un host específico.
+📌 Un script en Python que utiliza Nmap para escanear puertos, identificar servicios y detectar el sistema operativo en un host específico como target para identificar vulnerabilidades de redes.
 
 ### Utilidades
 
@@ -84,7 +81,7 @@ pip install python-nmap
 
 🔹 Clona el repositorio:
 ```sh
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/ChristianORomero/script_python_port_scanner.git
 ```
 
 ```powershell
