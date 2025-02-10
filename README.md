@@ -1,4 +1,4 @@
-# Python Script Port Scanner con Nmap module
+# Python Script/ Escáner de puertos/servicios/versión/OS exportable a .txt
 
 ## Descripción
 
